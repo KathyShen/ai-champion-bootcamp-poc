@@ -8,4 +8,4 @@ Examples include:
 - Secure multi-party computation
 - Homomorphic encryption
 
-Learn more: [PDPC PET Playbook](https://www.pdpc.gov.sg/tools-and-resources/privacy-enhancing-technologies)
+Learn more: [PDPC PET Playbook](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/other-guides/proposed-guide-on-synthetic-data-generation.pdf)
