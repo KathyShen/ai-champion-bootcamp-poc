@@ -47,7 +47,10 @@ with tab3:
 
     st.markdown("---")
     st.markdown("### 🔐 Common PET Techniques")
-    st.markdown(open("data/markdown/what_is_pet.md").read())
+    try:
+        st.markdown(open("data/markdown/what_is_pet.md").read())
+    except FileNotFoundError:
+        st.error("Info file not found: data/markdown/what_is_pet.md")
 
 # Feedback tab
 with tab4:
